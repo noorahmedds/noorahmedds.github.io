@@ -3,7 +3,7 @@ title: "Sewer-AI: Sustainable Automated Analysis of Real-World Sewer Videos Usin
 collection: publications
 permalink: /publication/2023-sewerai
 excerpt: 'In this work, we handle sewer inspection videos with severe challenges.'
-date: 2023
+date: #2023
 venue: 'ICPRAM 2023'
 paperurl: 'https://pdfs.semanticscholar.org/d100/ce9a012034d0ab0b6ad5ee04ad0cc61071d4.pdf'
 citation: 'Biswas, Rajarshi, Marcel Mutz, Piyush Pimplikar, Noor Ahmed, Dirk Werth. "Sewer-AI: Sustainable Automated Analysis of Real-World Sewer Videos Using DNNs." ICPRAM. 2023.'
