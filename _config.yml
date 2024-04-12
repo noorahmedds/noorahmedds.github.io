@@ -24,9 +24,9 @@ author:
   avatar           : "noor.jpg"
   name             : "Noor Ahmed"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : "PhD Student @ Saarland University"
   location         : "Saarbruecken"
-  employer         : "Saarland University"
+  # employer         : "Saarland University"
   uri              : # URL
   email            : "noah00001@uni-saarland.de" 
 
