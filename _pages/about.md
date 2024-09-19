@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Noor Ahmed, a PhD student at the [CVMP Lab](https://cvmp.cs.uni-saarland.de/) at [Saarland University](https://www.uni-saarland.de/en/home.html) under the supervision of [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg). I completed my Bachelor’s in Computer Science from National University of Computer and Emerging Sciences, Pakistan. For my masters, I was enrolled in the Visual Computing Program at Saarland University. Complementary to this, I did my master thesis at the [Computer Vision and Machine Learning Group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) at MPII under the supervision of [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/) and advisory of [Anna Kukleva](https://annusha.github.io/). My work proposed the [OrCo](https://github.com/noorahmedds/OrCo) method, which improved generalisation for Few-Shot Class Incremental Learning (FSCIL) via a novel contrastive loss.
+I'm Noor Ahmed, a PhD student at the [CVMP Lab](https://cvmp.cs.uni-saarland.de/) at [Saarland University](https://www.uni-saarland.de/en/home.html) under the supervision of [Eddy Ilg](https://cvmp.cs.uni-saarland.de/people/#eddy-ilg). I completed my Bachelor’s in Computer Science from National University of Computer and Emerging Sciences, Pakistan. For my masters, I was enrolled in the Visual Computing Program at Saarland University. Complementary to this, I did my master thesis at the [Computer Vision and Machine Learning Group](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) at MPII under the advisory of [Anna Kukleva](https://annusha.github.io/) and supervision of [Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/). My work proposed the [OrCo](https://github.com/noorahmedds/OrCo) method, which improved generalisation for Few-Shot Class Incremental Learning (FSCIL) via a novel contrastive loss.
 
 My research primarily lies within the realm of continual learning. I plan to diversify my research portfolio by extending continual learning to settings including and beyond 2D data. My recent work explores Multi-Modal foundation models for open-vocabulary fine-grained tasks. 
 
 ## News
+- 10/24:&nbsp;&nbsp;&nbsp;[CVMP](https://www.utn.de/en/departments/department-engineering/cvmp-lab/) is moving to [UTN](https://www.utn.de/en/) 🎉
 - 07/24:&nbsp;&nbsp;&nbsp;Accepted at ECCV 2024
 - 04/24:&nbsp;&nbsp;&nbsp;Accepted at CVPR 2024 with Poster Highlight 🎉
 - 03/24:&nbsp;&nbsp;&nbsp;Starting PhD at the CVMP Lab under Eddy Ilg
